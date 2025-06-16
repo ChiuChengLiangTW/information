@@ -18,6 +18,7 @@ The table below shows the minimum legal visible light transmission (VLT) percent
 | | | 西澳州<br>Western Australia | 75% | 35% | 20% | 20% | [1](https://australiatintlaws.com/) [2](https://www.legislation.wa.gov.au/legislation/prod/filestore.nsf/FileURL/mrdoc_28719.htm/%24FILE/Road%20Traffic%20(Vehicles)%20Regulations%202014%20-%20[00-g0-00].html) |
 | 🇯🇵 | 日本<br>Japan | | 70% | 70% | N/A | N/A | [1](https://www.mlit.go.jp/jidosha/jidosha/tenkenseibi/huseikaizou/h1/h1-2/) [2](https://www.mlit.go.jp/jidosha/content/S195.pdf) |
 | 🇳🇿 | 紐西蘭<br>New Zealand | | 70% | 35% | 35% | 35% | [1](https://www.nzta.govt.nz/vehicles/warrants-and-certificates/vehicle-equipment/vehicle-windows-wipers-and-mirrors/) [2](https://vehicleinspection.nzta.govt.nz/virms/in-service-wof-and-cof/light-psvs/vision/glazing) |
+| 🇳🇬 | 奈及利亞<br>Nigeria | | 禁止 | 禁止 | 禁止 | 禁止 | [1](https://www.commonlii.org/ng/legis/num_act/mvotgd447/) |
 | 🇨🇳 | 中華人民共和國<br>People's Republic of China | 香港<br>Hong Kong | 70% | 70% | 44% | 44% | [1](https://www.td.gov.hk/filemanager/sc/content_4808/item1.4.pdf) |
 | | | 澳門<br>Macau | 70% | 70% | 44% | 44% | [1](https://bo.io.gov.mo/bo/i/93/17/codestcn/declei17an.asp) |
 | | | 內地<br>Mainland | 70% | 70% | N/A | N/A | [1](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=06A0C376A0CA7B14E93106194C99730F) |
@@ -25,6 +26,5 @@ The table below shows the minimum legal visible light transmission (VLT) percent
 | 🇮🇪 | 愛爾蘭共和國<br>Republic of Ireland | | 65% | 65% | N/A | N/A | [1](https://www.rsa.ie/road-safety/road-users/vehicle-components/vehicle-glass/window-tinting) |
 | 🇰🇷 | 大韓民國<br>Republic of Korea | | 70% | 40% | N/A | N/A | [1](https://elaw.klri.re.kr/eng_service/lawView.do?hseq=51393&lang=ENG) |
 | 🇸🇬 | 新加坡<br>Singapore | | 70% | 70% | 25% | 25% | [1](https://onemotoring.lta.gov.sg/content/onemotoring/home/owning/modification.html) |
-| 🇳🇬 | 奈及利亞<br>Nigeria | | 禁止 | 禁止 | 禁止 | 禁止 | [1](https://www.commonlii.org/ng/legis/num_act/mvotgd447/) |
 | 🇿🇦 | 南非<br>South Africa | | 70% | 35% | 35% | 35% | [1](http://www.kzntransport.gov.za/reading_room/acts/national/NRTA%20Regs%20Part%201.pdf) |
 | 🇬🇧 | 英國<br>United Kingdom | 英格蘭、蘇格蘭、威爾士、北愛爾蘭<br>England, Scotland, Wales, Northern Ireland | 75% | 70% | N/A | N/A | [1](https://www.gov.uk/tinted-vehicle-window-rules) |
