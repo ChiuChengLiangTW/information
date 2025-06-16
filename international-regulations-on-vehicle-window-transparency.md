@@ -16,6 +16,7 @@ The table below shows the minimum legal visible light transmission (VLT) percent
 | | | 塔斯馬尼亞州<br>Tasmania | 70% | 35% | 20% | 20% | [1](https://australiatintlaws.com/) [2](https://www.legislation.tas.gov.au/view/html/inforce/current/sr-2024-015) |
 | | | 維多利亞州<br>Victoria | 70% | 35% | 20% | 20% | [1](https://australiatintlaws.com/) [2](transport.vic.gov.au/road-rules-and-safety/window-tinting) |
 | | | 西澳州<br>Western Australia | 75% | 35% | 20% | 20% | [1](https://australiatintlaws.com/) [2](https://www.legislation.wa.gov.au/legislation/prod/filestore.nsf/FileURL/mrdoc_28719.htm/%24FILE/Road%20Traffic%20(Vehicles)%20Regulations%202014%20-%20[00-g0-00].html) |
+| 🇧🇷 | 巴西<br>Brasil | | 70% | 70% | 28% | 28% | [1](https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-contran/resolucoes/Resolucao9602022.pdf) |
 | 🇯🇵 | 日本<br>Japan | | 70% | 70% | N/A | N/A | [1](https://www.mlit.go.jp/jidosha/jidosha/tenkenseibi/huseikaizou/h1/h1-2/) [2](https://www.mlit.go.jp/jidosha/content/S195.pdf) |
 | 🇳🇿 | 紐西蘭<br>New Zealand | | 70% | 35% | 35% | 35% | [1](https://www.nzta.govt.nz/vehicles/warrants-and-certificates/vehicle-equipment/vehicle-windows-wipers-and-mirrors/) [2](https://vehicleinspection.nzta.govt.nz/virms/in-service-wof-and-cof/light-psvs/vision/glazing) |
 | 🇳🇬 | 奈及利亞<br>Nigeria | | 禁止 | 禁止 | 禁止 | 禁止 | [1](https://www.commonlii.org/ng/legis/num_act/mvotgd447/) |
